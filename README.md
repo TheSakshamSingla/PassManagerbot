@@ -58,7 +58,7 @@ This password manager follows industry best practices for security:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/TheSakshamSingla/PassManagerbot.git
    cd "Password Manager/backend"
    ```
 
